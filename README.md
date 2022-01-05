@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Get in touch
+
+- Twitter: https://twitter.com/rafnixg
+- Personal Site: https://rafnixg.dev
+
+## Latest Posts (Spanish)
+
+
+- [🐍 Entornos virtuales en Python usando Pipenv](https://rafnixg.dev/entornos-virtuales-en-python-usando-pipenv/)
+
